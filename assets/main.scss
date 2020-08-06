@@ -1,0 +1,13 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+$background-color: #f0edee;
+@import "minima";
+
+.site-header {
+	border-bottom: 2px dashed #222;
+}
+
+.site-footer {
+	border-top: 2px dashed #222;
+}
